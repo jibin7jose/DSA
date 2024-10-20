@@ -15,7 +15,7 @@ Sample Output 1:
 
   public class Solution {
     public static void symmetry(int n) {
-        // Write your code here
+      
         int spaces=0;
         int counter=n;
         for(int i=1;i<=n;i++){
