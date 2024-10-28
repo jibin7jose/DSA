@@ -11,8 +11,6 @@ code
 
 
   public class Solution {
-    public static void nStarTriangle(int n) {
-        // Write your code here
         for(int i=n-1;i>=0;i--){
              int space=n-i-1;
            for(int j=0;j<space;j++){
